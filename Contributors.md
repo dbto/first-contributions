@@ -1,5 +1,6 @@
  # Contributors
  - [Shubham Garh](https://github.com/devac123)
+ - [Tyler Taylor](https://github.com/UnstablePayload)
  - [Anurag Bhardwaj](https://github.com/theanuraaag)
  - [Umesh Bhatt](https://github.com/me-hem)
  - [Ajinkya Nikam](https://github.com/Jinkz04)
@@ -37,6 +38,7 @@
  -[Amrutha Varshini](https://github.com/Varshini1905)
  - [Jomkit Jujaroen](https://github.com/Jomkit)
  - [Willy Agusta](https://github.com/willyagusta)
+ -[vivekananda](https://github.com/vivek4566)
  - [Afzal Diwan](https://github.com/Afzal-husen)
  - [YoohPH](https://github.com/YoohPH)
  - [Raghav](https://github.com/raghav-si)
@@ -2295,6 +2297,7 @@ Matthew Burgos
 - [Salman Shahid](https://github.com/salman-281)
 - [Lakhshyaa](https://github.com/LAKHSHYAA)
 - [sn-ljh](https://github.com/sn-ljh)
+- [BonKRrr](https://github.com/BonKRrr)
 - [Fatema Alam]([https://github.com/sn-ljh](https://github.com/fatemakotha))
 - [terutarou](https://github.com/teruteru214)
 - [Zewang0217](https://github.com/Zewang0217)
@@ -2577,3 +2580,4 @@ Matthew Burgos
 - [Prabhakar Singh](https://github.com/prabhaks)
 - [gfy125](https://github.com/gfy125)
 - [ycamlad](https://github.com/ycamlad)
+- [Daniella Asuqo] (https://github.com/Malef02rules)
